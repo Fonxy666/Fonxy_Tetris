@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Fonxy_Tetris/.vs/Fonxy_Tetris/v17
+/Fonxy_Tetris/.vs/Fonxy_Tetris/FileContentIndex
+/Fonxy_Tetris/Fonxy_Tetris/x64/Debug
+/Fonxy_Tetris/x64/Debug
